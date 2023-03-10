@@ -1,1 +1,3 @@
-/hi https://tapthe.link/r28 302!
+/short/* /shorten.php?url=:splat 200
+/hi https://tapthe.link/r28 301!
+/hot https://cutt.ly/78VBOKS 200!
